@@ -19,4 +19,4 @@ This project is a website which will contain links to a few recipes that the use
 
 Check the live version of the project here: 
 
-[text](https://dani-sink.github.io/odin-recipes/)
+[Link here](https://dani-sink.github.io/odin-recipes/)
